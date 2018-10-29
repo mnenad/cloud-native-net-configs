@@ -1,2 +1,11 @@
----
-batch.size: 500
+# splash notice
+splash=Branch3 in QA says hi!
+
+#connections
+productdbconnstring='server=f6t59q;user=service8;password=j&&311@l<p'
+
+#feature flags
+oneclick=on
+
+#logging toggles
+loglevel=all
